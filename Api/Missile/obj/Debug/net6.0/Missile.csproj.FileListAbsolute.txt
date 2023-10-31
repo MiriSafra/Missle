@@ -1,0 +1,86 @@
+Y:\Groups\Group_2\מנטל  חיה\dotnet\Api\Missile\bin\Debug\net6.0\appsettings.Development.json
+Y:\Groups\Group_2\מנטל  חיה\dotnet\Api\Missile\bin\Debug\net6.0\appsettings.json
+Y:\Groups\Group_2\מנטל  חיה\dotnet\Api\Missile\bin\Debug\net6.0\Missile.exe
+Y:\Groups\Group_2\מנטל  חיה\dotnet\Api\Missile\bin\Debug\net6.0\Missile.deps.json
+Y:\Groups\Group_2\מנטל  חיה\dotnet\Api\Missile\bin\Debug\net6.0\Missile.runtimeconfig.json
+Y:\Groups\Group_2\מנטל  חיה\dotnet\Api\Missile\bin\Debug\net6.0\Missile.dll
+Y:\Groups\Group_2\מנטל  חיה\dotnet\Api\Missile\bin\Debug\net6.0\Missile.pdb
+Y:\Groups\Group_2\מנטל  חיה\dotnet\Api\Missile\bin\Debug\net6.0\Microsoft.OpenApi.dll
+Y:\Groups\Group_2\מנטל  חיה\dotnet\Api\Missile\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+Y:\Groups\Group_2\מנטל  חיה\dotnet\Api\Missile\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Y:\Groups\Group_2\מנטל  חיה\dotnet\Api\Missile\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Y:\Groups\Group_2\מנטל  חיה\dotnet\Api\Missile\obj\Debug\net6.0\Missile.csproj.AssemblyReference.cache
+Y:\Groups\Group_2\מנטל  חיה\dotnet\Api\Missile\obj\Debug\net6.0\Missile.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_2\מנטל  חיה\dotnet\Api\Missile\obj\Debug\net6.0\Missile.AssemblyInfoInputs.cache
+Y:\Groups\Group_2\מנטל  חיה\dotnet\Api\Missile\obj\Debug\net6.0\Missile.AssemblyInfo.cs
+Y:\Groups\Group_2\מנטל  חיה\dotnet\Api\Missile\obj\Debug\net6.0\Missile.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_2\מנטל  חיה\dotnet\Api\Missile\obj\Debug\net6.0\Missile.MvcApplicationPartsAssemblyInfo.cs
+Y:\Groups\Group_2\מנטל  חיה\dotnet\Api\Missile\obj\Debug\net6.0\Missile.MvcApplicationPartsAssemblyInfo.cache
+Y:\Groups\Group_2\מנטל  חיה\dotnet\Api\Missile\obj\Debug\net6.0\staticwebassets.build.json
+Y:\Groups\Group_2\מנטל  חיה\dotnet\Api\Missile\obj\Debug\net6.0\staticwebassets.development.json
+Y:\Groups\Group_2\מנטל  חיה\dotnet\Api\Missile\obj\Debug\net6.0\scopedcss\bundle\Missile.styles.css
+Y:\Groups\Group_2\מנטל  חיה\dotnet\Api\Missile\obj\Debug\net6.0\Missile.csproj.CopyComplete
+Y:\Groups\Group_2\מנטל  חיה\dotnet\Api\Missile\obj\Debug\net6.0\Missile.dll
+Y:\Groups\Group_2\מנטל  חיה\dotnet\Api\Missile\obj\Debug\net6.0\refint\Missile.dll
+Y:\Groups\Group_2\מנטל  חיה\dotnet\Api\Missile\obj\Debug\net6.0\Missile.pdb
+Y:\Groups\Group_2\מנטל  חיה\dotnet\Api\Missile\obj\Debug\net6.0\Missile.genruntimeconfig.cache
+Y:\Groups\Group_2\מנטל  חיה\dotnet\Api\Missile\obj\Debug\net6.0\ref\Missile.dll
+Y:\Groups\Group_2\קצואר  צפורה\Dotnet\lesson4\Api\Missile\bin\Debug\net6.0\appsettings.Development.json
+Y:\Groups\Group_2\קצואר  צפורה\Dotnet\lesson4\Api\Missile\bin\Debug\net6.0\appsettings.json
+Y:\Groups\Group_2\קצואר  צפורה\Dotnet\lesson4\Api\Missile\bin\Debug\net6.0\Missile.exe
+Y:\Groups\Group_2\קצואר  צפורה\Dotnet\lesson4\Api\Missile\bin\Debug\net6.0\Missile.deps.json
+Y:\Groups\Group_2\קצואר  צפורה\Dotnet\lesson4\Api\Missile\bin\Debug\net6.0\Missile.runtimeconfig.json
+Y:\Groups\Group_2\קצואר  צפורה\Dotnet\lesson4\Api\Missile\bin\Debug\net6.0\Missile.dll
+Y:\Groups\Group_2\קצואר  צפורה\Dotnet\lesson4\Api\Missile\bin\Debug\net6.0\Missile.pdb
+Y:\Groups\Group_2\קצואר  צפורה\Dotnet\lesson4\Api\Missile\bin\Debug\net6.0\Microsoft.OpenApi.dll
+Y:\Groups\Group_2\קצואר  צפורה\Dotnet\lesson4\Api\Missile\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+Y:\Groups\Group_2\קצואר  צפורה\Dotnet\lesson4\Api\Missile\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Y:\Groups\Group_2\קצואר  צפורה\Dotnet\lesson4\Api\Missile\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Y:\Groups\Group_2\קצואר  צפורה\Dotnet\lesson4\Api\Missile\obj\Debug\net6.0\Missile.csproj.AssemblyReference.cache
+Y:\Groups\Group_2\קצואר  צפורה\Dotnet\lesson4\Api\Missile\obj\Debug\net6.0\Missile.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_2\קצואר  צפורה\Dotnet\lesson4\Api\Missile\obj\Debug\net6.0\Missile.AssemblyInfoInputs.cache
+Y:\Groups\Group_2\קצואר  צפורה\Dotnet\lesson4\Api\Missile\obj\Debug\net6.0\Missile.AssemblyInfo.cs
+Y:\Groups\Group_2\קצואר  צפורה\Dotnet\lesson4\Api\Missile\obj\Debug\net6.0\Missile.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_2\קצואר  צפורה\Dotnet\lesson4\Api\Missile\obj\Debug\net6.0\Missile.MvcApplicationPartsAssemblyInfo.cs
+Y:\Groups\Group_2\קצואר  צפורה\Dotnet\lesson4\Api\Missile\obj\Debug\net6.0\Missile.MvcApplicationPartsAssemblyInfo.cache
+Y:\Groups\Group_2\קצואר  צפורה\Dotnet\lesson4\Api\Missile\obj\Debug\net6.0\staticwebassets.build.json
+Y:\Groups\Group_2\קצואר  צפורה\Dotnet\lesson4\Api\Missile\obj\Debug\net6.0\staticwebassets.development.json
+Y:\Groups\Group_2\קצואר  צפורה\Dotnet\lesson4\Api\Missile\obj\Debug\net6.0\scopedcss\bundle\Missile.styles.css
+Y:\Groups\Group_2\קצואר  צפורה\Dotnet\lesson4\Api\Missile\obj\Debug\net6.0\Missile.csproj.CopyComplete
+Y:\Groups\Group_2\קצואר  צפורה\Dotnet\lesson4\Api\Missile\obj\Debug\net6.0\Missile.dll
+Y:\Groups\Group_2\קצואר  צפורה\Dotnet\lesson4\Api\Missile\obj\Debug\net6.0\refint\Missile.dll
+Y:\Groups\Group_2\קצואר  צפורה\Dotnet\lesson4\Api\Missile\obj\Debug\net6.0\Missile.pdb
+Y:\Groups\Group_2\קצואר  צפורה\Dotnet\lesson4\Api\Missile\obj\Debug\net6.0\Missile.genruntimeconfig.cache
+Y:\Groups\Group_2\קצואר  צפורה\Dotnet\lesson4\Api\Missile\obj\Debug\net6.0\ref\Missile.dll
+D:\שיעורי בית דוטנט קצואר\lesson4\Api\Missile\bin\Debug\net6.0\appsettings.Development.json
+D:\שיעורי בית דוטנט קצואר\lesson4\Api\Missile\bin\Debug\net6.0\appsettings.json
+D:\שיעורי בית דוטנט קצואר\lesson4\Api\Missile\bin\Debug\net6.0\Missile.exe
+D:\שיעורי בית דוטנט קצואר\lesson4\Api\Missile\bin\Debug\net6.0\Missile.deps.json
+D:\שיעורי בית דוטנט קצואר\lesson4\Api\Missile\bin\Debug\net6.0\Missile.runtimeconfig.json
+D:\שיעורי בית דוטנט קצואר\lesson4\Api\Missile\bin\Debug\net6.0\Missile.dll
+D:\שיעורי בית דוטנט קצואר\lesson4\Api\Missile\bin\Debug\net6.0\Missile.pdb
+D:\שיעורי בית דוטנט קצואר\lesson4\Api\Missile\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\שיעורי בית דוטנט קצואר\lesson4\Api\Missile\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\שיעורי בית דוטנט קצואר\lesson4\Api\Missile\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\שיעורי בית דוטנט קצואר\lesson4\Api\Missile\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\שיעורי בית דוטנט קצואר\lesson4\Api\Missile\obj\Debug\net6.0\Missile.csproj.AssemblyReference.cache
+D:\שיעורי בית דוטנט קצואר\lesson4\Api\Missile\obj\Debug\net6.0\Missile.GeneratedMSBuildEditorConfig.editorconfig
+D:\שיעורי בית דוטנט קצואר\lesson4\Api\Missile\obj\Debug\net6.0\Missile.AssemblyInfoInputs.cache
+D:\שיעורי בית דוטנט קצואר\lesson4\Api\Missile\obj\Debug\net6.0\Missile.AssemblyInfo.cs
+D:\שיעורי בית דוטנט קצואר\lesson4\Api\Missile\obj\Debug\net6.0\Missile.csproj.CoreCompileInputs.cache
+D:\שיעורי בית דוטנט קצואר\lesson4\Api\Missile\obj\Debug\net6.0\Missile.MvcApplicationPartsAssemblyInfo.cs
+D:\שיעורי בית דוטנט קצואר\lesson4\Api\Missile\obj\Debug\net6.0\Missile.MvcApplicationPartsAssemblyInfo.cache
+D:\שיעורי בית דוטנט קצואר\lesson4\Api\Missile\obj\Debug\net6.0\staticwebassets\msbuild.Missile.Microsoft.AspNetCore.StaticWebAssets.props
+D:\שיעורי בית דוטנט קצואר\lesson4\Api\Missile\obj\Debug\net6.0\staticwebassets\msbuild.build.Missile.props
+D:\שיעורי בית דוטנט קצואר\lesson4\Api\Missile\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Missile.props
+D:\שיעורי בית דוטנט קצואר\lesson4\Api\Missile\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Missile.props
+D:\שיעורי בית דוטנט קצואר\lesson4\Api\Missile\obj\Debug\net6.0\staticwebassets.pack.json
+D:\שיעורי בית דוטנט קצואר\lesson4\Api\Missile\obj\Debug\net6.0\staticwebassets.build.json
+D:\שיעורי בית דוטנט קצואר\lesson4\Api\Missile\obj\Debug\net6.0\staticwebassets.development.json
+D:\שיעורי בית דוטנט קצואר\lesson4\Api\Missile\obj\Debug\net6.0\scopedcss\bundle\Missile.styles.css
+D:\שיעורי בית דוטנט קצואר\lesson4\Api\Missile\obj\Debug\net6.0\Missile.csproj.CopyComplete
+D:\שיעורי בית דוטנט קצואר\lesson4\Api\Missile\obj\Debug\net6.0\Missile.dll
+D:\שיעורי בית דוטנט קצואר\lesson4\Api\Missile\obj\Debug\net6.0\refint\Missile.dll
+D:\שיעורי בית דוטנט קצואר\lesson4\Api\Missile\obj\Debug\net6.0\Missile.pdb
+D:\שיעורי בית דוטנט קצואר\lesson4\Api\Missile\obj\Debug\net6.0\Missile.genruntimeconfig.cache
+D:\שיעורי בית דוטנט קצואר\lesson4\Api\Missile\obj\Debug\net6.0\ref\Missile.dll
