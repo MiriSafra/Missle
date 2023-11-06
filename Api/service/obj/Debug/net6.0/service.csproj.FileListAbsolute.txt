@@ -1,0 +1,15 @@
+C:\תכנות\דוטנט\שיעורי בית\Api\service\bin\Debug\net6.0\service.deps.json
+C:\תכנות\דוטנט\שיעורי בית\Api\service\bin\Debug\net6.0\service.dll
+C:\תכנות\דוטנט\שיעורי בית\Api\service\bin\Debug\net6.0\service.pdb
+C:\תכנות\דוטנט\שיעורי בית\Api\service\bin\Debug\net6.0\model.dll
+C:\תכנות\דוטנט\שיעורי בית\Api\service\bin\Debug\net6.0\model.pdb
+C:\תכנות\דוטנט\שיעורי בית\Api\service\obj\Debug\net6.0\service.csproj.AssemblyReference.cache
+C:\תכנות\דוטנט\שיעורי בית\Api\service\obj\Debug\net6.0\service.GeneratedMSBuildEditorConfig.editorconfig
+C:\תכנות\דוטנט\שיעורי בית\Api\service\obj\Debug\net6.0\service.AssemblyInfoInputs.cache
+C:\תכנות\דוטנט\שיעורי בית\Api\service\obj\Debug\net6.0\service.AssemblyInfo.cs
+C:\תכנות\דוטנט\שיעורי בית\Api\service\obj\Debug\net6.0\service.csproj.CoreCompileInputs.cache
+C:\תכנות\דוטנט\שיעורי בית\Api\service\obj\Debug\net6.0\service.csproj.CopyComplete
+C:\תכנות\דוטנט\שיעורי בית\Api\service\obj\Debug\net6.0\service.dll
+C:\תכנות\דוטנט\שיעורי בית\Api\service\obj\Debug\net6.0\refint\service.dll
+C:\תכנות\דוטנט\שיעורי בית\Api\service\obj\Debug\net6.0\service.pdb
+C:\תכנות\דוטנט\שיעורי בית\Api\service\obj\Debug\net6.0\ref\service.dll

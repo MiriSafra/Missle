@@ -1,32 +1,34 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using Missile.service;
-using Missile.model;
+using model.model;
+using service.service;
+
 namespace Missile.Controllers
 {
     [ApiController]
     [Route("[controller]")]
     public class MissleController : ControllerBase
     {
-        public MissleController()
+        readonly MissleService _service;
+        public MissleController(MissleService service)
         {
-
+            _service = service;
         }
-        MissleService service=new MissleService();
+        
         [HttpGet]
         public IEnumerable<Missle> GetData()
         {
-            return service.GetData();
+            return _service.GetData();
         }
         [HttpPost]
         public bool post(Missle m)
         {
-            return service.add(m);
+            return _service.add(m);
         }
         [HttpGet]
         [Route("GetDataByCity")]
         public IEnumerable<Missle> GetDataByCity(string city)
         {
-            return service.GetDataByCity(city);
+            return _service.GetDataByCity(city);
         }
 
 
@@ -35,7 +37,7 @@ namespace Missile.Controllers
         public IEnumerable<string> GetCities()
         {
 
-            return service.GetCities();
+            return _service.GetCities();
         }
     }
 }

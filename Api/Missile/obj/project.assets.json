@@ -88,6 +88,29 @@
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
+      },
+      "model/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/model.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/model.dll": {}
+        }
+      },
+      "service/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "model": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/service.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/service.dll": {}
+        }
       }
     }
   },
@@ -216,11 +239,23 @@
         "swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
         "swashbuckle.aspnetcore.swaggerui.nuspec"
       ]
+    },
+    "model/1.0.0": {
+      "type": "project",
+      "path": "../model/model.csproj",
+      "msbuildProject": "../model/model.csproj"
+    },
+    "service/1.0.0": {
+      "type": "project",
+      "path": "../service/service.csproj",
+      "msbuildProject": "../service/service.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "Swashbuckle.AspNetCore >= 6.2.3"
+      "Swashbuckle.AspNetCore >= 6.2.3",
+      "model >= 1.0.0",
+      "service >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -255,7 +290,14 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\תכנות\\דוטנט\\שיעורי בית\\Api\\model\\model.csproj": {
+              "projectPath": "C:\\תכנות\\דוטנט\\שיעורי בית\\Api\\model\\model.csproj"
+            },
+            "C:\\תכנות\\דוטנט\\שיעורי בית\\Api\\service\\service.csproj": {
+              "projectPath": "C:\\תכנות\\דוטנט\\שיעורי בית\\Api\\service\\service.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

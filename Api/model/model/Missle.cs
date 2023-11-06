@@ -1,4 +1,4 @@
-﻿namespace Missile.model
+﻿namespace model.model
 {
     public class Missle
     {

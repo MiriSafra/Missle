@@ -1,5 +1,7 @@
-﻿using Missile.model;
-namespace Missile.service
+﻿
+using model.model;
+
+namespace service.service
 {
     public class Data
     {

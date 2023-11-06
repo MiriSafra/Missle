@@ -1,0 +1,12 @@
+C:\תכנות\דוטנט\שיעורי בית\Api\model\bin\Debug\net6.0\model.deps.json
+C:\תכנות\דוטנט\שיעורי בית\Api\model\bin\Debug\net6.0\model.dll
+C:\תכנות\דוטנט\שיעורי בית\Api\model\bin\Debug\net6.0\model.pdb
+C:\תכנות\דוטנט\שיעורי בית\Api\model\obj\Debug\net6.0\model.csproj.AssemblyReference.cache
+C:\תכנות\דוטנט\שיעורי בית\Api\model\obj\Debug\net6.0\model.GeneratedMSBuildEditorConfig.editorconfig
+C:\תכנות\דוטנט\שיעורי בית\Api\model\obj\Debug\net6.0\model.AssemblyInfoInputs.cache
+C:\תכנות\דוטנט\שיעורי בית\Api\model\obj\Debug\net6.0\model.AssemblyInfo.cs
+C:\תכנות\דוטנט\שיעורי בית\Api\model\obj\Debug\net6.0\model.csproj.CoreCompileInputs.cache
+C:\תכנות\דוטנט\שיעורי בית\Api\model\obj\Debug\net6.0\model.dll
+C:\תכנות\דוטנט\שיעורי בית\Api\model\obj\Debug\net6.0\refint\model.dll
+C:\תכנות\דוטנט\שיעורי בית\Api\model\obj\Debug\net6.0\model.pdb
+C:\תכנות\דוטנט\שיעורי בית\Api\model\obj\Debug\net6.0\ref\model.dll
