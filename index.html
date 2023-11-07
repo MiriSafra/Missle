@@ -12,39 +12,126 @@
     </style>
 </head>
 <body>
-    <a href="Api/Missile/Controllers/MissleController.cs">Api/Missile/Controllers/MissleController.cs</a>
-    <h1>Missles!!!</h1><div id="s"></div>
+    <h1>Missles</h1>
+    <button onclick="Get()">Get</button>
+    <button onclick="GetCities()">GetCities</button>
+    <button onclick="GetDataByCity()">GetDataByCity</button>
+    <input type="text" id="city" placeholder="enter city">
+    <div>
+    <button onclick="Post()">Post</button>
+    <input type="text" placeholder="patriotmissile" id="patriotmissile">
+    <input type="text" placeholder="city" id="city">
+    <input type="date" name="" id="date" placeholder="date">
+    <input type="date" name="" id="endDate" placeholder="endDate">
+    <input type="text" placeholder="location" id="location">
+    <input type="text" placeholder="misleStart" id="misleStart">
+  </div>
+    <div id="s"></div>
     <script>
-        fetch("http://localhost:5104/Missle").then(Response => Response.json()).then((json) => {
-            console.log(json);
-
-            for (let i = 0; i < Object.keys(json).length; i++) {
-                let div = document.createElement("div")
-                div.setAttribute("class", "div")
-                let p1 = document.createElement("p")
-                let p2 = document.createElement("p")
-                let p3 = document.createElement("p")
-                let p4 = document.createElement("p")
-                let p5 = document.createElement("p")
-                let p6 = document.createElement("p")
-
-                p1.textContent = "patriotmissile: " + json[i].patriotmissile
-                p2.textContent = "city: " + json[i].location.city
-                p3.textContent = "date: " + json[i].location.date
-                p4.textContent = "end date: " + json[i].location.endDate
-                p5.textContent = "location: " + json[i].location.location
-                p6.textContent = "misleStart: " + json[i].location.misleStart
-
-
-                div.appendChild(p1)
-                div.appendChild(p2)
-                div.appendChild(p3)
-                div.appendChild(p4)
-                div.appendChild(p5)
-                div.appendChild(p6)
-                document.getElementById("s").appendChild(div)
-            }
+      function Get()
+      {
+        fetch("http://localhost:5104/Missle").then(Response=>Response.json()).then((json)=>{
+          console.log(json);
+         
+          for (let i = 0; i <Object.keys(json).length; i++) {
+            let div=document.createElement("div")
+            div.setAttribute("class","div")
+            let p1=document.createElement("p")
+            let p2=document.createElement("p")
+            let p3=document.createElement("p")
+            let p4=document.createElement("p")
+            let p5=document.createElement("p")
+            let p6=document.createElement("p")
+           
+            p1.textContent="patriotmissile: "+json[i].patriotmissile
+            p2.textContent="city: "+json[i].location.city
+            p3.textContent="date: "+json[i].location.date
+            p4.textContent="end date: "+json[i].location.endDate
+            p5.textContent="location: "+json[i].location.location
+            p6.textContent="misleStart: "+json[i].location.misleStart
+           
+            
+            div.appendChild(p1)
+            div.appendChild(p2)
+            div.appendChild(p3)
+            div.appendChild(p4)
+            div.appendChild(p5)
+            div.appendChild(p6)
+            document.getElementById("s").appendChild(div) 
+          }
         })
+      }
+      function GetDataByCity()
+      {
+        let c=document.getElementById("city").value;
+        fetch("http://localhost:5104/Missle/GetDataByCity?city="+c).then(Response=>Response.json()).then((json)=>{
+          console.log(json);
+         
+          for (let i = 0; i <Object.keys(json).length; i++) {
+            let div=document.createElement("div")
+            div.setAttribute("class","div")
+            let p1=document.createElement("p")
+            let p2=document.createElement("p")
+            let p3=document.createElement("p")
+            let p4=document.createElement("p")
+            let p5=document.createElement("p")
+            let p6=document.createElement("p")
+           
+            p1.textContent="patriotmissile: "+json[i].patriotmissile
+            p2.textContent="city: "+json[i].location.city
+            p3.textContent="date: "+json[i].location.date
+            p4.textContent="end date: "+json[i].location.endDate
+            p5.textContent="location: "+json[i].location.location
+            p6.textContent="misleStart: "+json[i].location.misleStart
+           
+            
+            div.appendChild(p1)
+            div.appendChild(p2)
+            div.appendChild(p3)
+            div.appendChild(p4)
+            div.appendChild(p5)
+            div.appendChild(p6)
+            document.getElementById("s").appendChild(div) 
+          }
+        })
+      }  
+      function GetCities()
+      {
+        fetch("http://localhost:5104/Missle").then(Response=>Response.json()).then((json)=>{
+          console.log(json);
+         
+          for (let i = 0; i <Object.keys(json).length; i++) {
+            let div=document.createElement("div")
+            div.setAttribute("class","div")
+            let p1=document.createElement("p")
+           
+            p1.textContent="city: "+json[i].location.city
+           
+            div.appendChild(p1)
+            document.getElementById("s").appendChild(div) 
+          }
+        })
+      }
+      function Post()
+      {
+        let p1=document.getElementById("patriotmissile").value
+        let p2=document.getElementById("city").value
+        let p3=document.getElementById("date").value
+        let p4=document.getElementById("endDate").value
+        let p5=document.getElementById("location").value
+        let p6=document.getElementById("misleStart").value
+        let Missle={
+       "Patriotmissile":p1,"location":{"city":p2, "date":p3,"endDate":p4,"locatio":p5,"misleStart": p6}
+      }
+      console.log(JSON.stringify(Missle))
+      console.log("http://localhost:5104/Missle",{method:"POST",body:JSON.stringify(Missle)})
+      fetch("http://localhost:5104/Missle",{method:"POST",body:JSON.stringify(Missle)}).then(Response => Response.json()).then((json) => {
+       
+        
+      })
+
+      }
+        
     </script>
 </body>
 </html>
