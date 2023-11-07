@@ -16,8 +16,15 @@ namespace service.service
         }
         public bool add(Missle m)
         {
-            Data.data.Add(m);
-            return true;
+            if (Data.data.Contains(m))
+            {
+                return false;
+            }
+            else
+            {
+                Data.data.Add(m);
+                return true;
+            }
         }
         //החזרת טילים לפי מיקום
         public IEnumerable<Missle> GetDataByCity(string city)
@@ -27,7 +34,7 @@ namespace service.service
         //כל הערים שנפלו בהם טילים
         public IEnumerable<string> GetCities()
         {
-            return Data.data.Select(x => x.Location.City).ToList();
+            return Data.data.Select(x => x.Location.City).ToList().Distinct();
 
         }
 
